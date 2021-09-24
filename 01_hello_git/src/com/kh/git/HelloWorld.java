@@ -10,6 +10,7 @@ public class HelloWorld {
 		System.out.println("Good luck~");
 		
 		new Foo().sayFoo();
+		new Foo().sayFoo();
 	}
 
 }
